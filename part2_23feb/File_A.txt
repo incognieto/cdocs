@@ -1,0 +1,5 @@
+Jabar Cimahi 5 4
+Jabar Garut 1 12
+Jabar Bandung 4 4
+Jabar Garut 12 8
+Jabar Purwakarta 1 8

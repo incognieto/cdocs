@@ -1,0 +1,1 @@
+    // Deklarasi variabel int dan memberikan nilai 1234
